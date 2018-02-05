@@ -1,3 +1,5 @@
+
+
 # PythonViso
 ## Jan 23rd  ##
 Issues:
@@ -23,3 +25,6 @@ Issues:
  2. The size of the nodes are based on the centrality measurement of the nodes, the more significant the individual is, the bigger size the node has
 ##
 #### - 3d graph and toggling implemented
+
+
+IncidentNumber	Agency	Identifier	IncidentDate	FirstName	MiddleName	LastName	FullName	DOB	DLNumber	IncidentLocationStreetAddress	IncidentCity	CrimeType	InvolvementType
