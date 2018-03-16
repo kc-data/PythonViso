@@ -1,11 +1,4 @@
 # PythonViso
-## Jan 23rd  ##
-Issues:
-- It seems that edges cannot be color-coded.
-- To present the result in 3D.
-- Can we hover criminal photo?
-- Build a dashboard
-
 ## Jan 28th Updates: ##
 #### - Color-coding of Nodes Rules:
  1. Colors are based on the relationships in the sub-graph (sub-edges), not the entire graph
