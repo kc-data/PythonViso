@@ -1,5 +1,5 @@
 # PythonViso
-## All test data are not the real data, they are for testing purpose only
+
 ## Jan 28th Updates: ##
 #### - Color-coding of Nodes Rules:
  1. Colors are based on the relationships in the sub-graph (sub-edges), not the entire graph
