@@ -1,6 +1,6 @@
 # PythonViso
 
-## Jan 28th Updates: ##
+## Updates: ##
 #### - Color-coding of Nodes Rules:
  1. Colors are based on the relationships in the sub-graph (sub-edges), not the entire graph
  2. If one node is a suspect in one relationship in the sub-edges, it will be considered suspect;
